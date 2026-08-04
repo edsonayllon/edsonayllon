@@ -53,8 +53,8 @@ Solo-built, AI-native consumer apps — designed, engineered, and shipped end to
 ## 📊 GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=edsonayllon&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonayllon&layout=compact&hide_border=true&theme=transparent" alt="Top languages"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=edsonayllon&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub stats"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=edsonayllon&layout=compact&hide_border=true&theme=transparent&exclude_repo=eos-starter-smart-contracts,scatter-wallet-test" alt="Top languages"/>
 </p>
 
 <p align="center">
