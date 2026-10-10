@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Product leader who ships code.</b><br/>
-  6+ years building consumer fintech and AI products end to end — from smart contracts to App Store.
+  8 years across product and engineering, the last five shipping consumer financial products — launches that attracted $125M+ in user deposits and $3.4M in annualized revenue.
 </p>
 
 <p align="center">
@@ -17,12 +17,12 @@
 
 ## 🚀 What I've Done
 
-- 📈 **Grew a DeFi platform to $125M+ in concurrent deposits** as Senior Product Manager at [Chamber](https://chamberfi.com) (formerly dHEDGE), leading a cross-functional team of 10 engineers and designers
-- 🔁 **Grew weekly retention 850%** (600 → 5,700 weekly returning users) through behavioral design and gamification
-- 💰 **Designed a pricing strategy generating $3.4M in annualized revenue**, and drove **73% monthly visitor growth** through a full rebrand and AI-managed-vaults pivot
-- ⚡ **Launched dHEDGE V2 on Polygon and Optimism** — $1M TVL in the first month, $6.5M within six months
-- 🏦 **Relaunched [mStable](https://mstable.com)** to $3.5M in day-one deposits
-- 🛠️ **As an engineer:** shipped a swap integration that cut transaction fees 90%, built React/React Native apps for Starbucks (via Infosys), and contributed to the Ethereum EIP process
+- 📈 **Attracted ~$110M of Chamber's $125M+ assets under management** as Senior Product Manager at [Chamber](https://chamberfi.com) (formerly dHEDGE), launching Toros leverage products with a team of 10 engineers and designers
+- 🔁 **Grew Toros' weekly active users 9.5x** (600 to 5,700) with referral, leaderboard, and achievements systems
+- 💰 **Grew monthly revenue ~7x to $3.4M annualized** by closing a competitive fee gap, and **grew monthly active users 73%** by owning the Chamber rebrand
+- ⚡ **Launched the dHEDGE V2 platform** — $1M in month one and $6.5M in deposits the next six months
+- 🏦 **Relaunched [mStable](https://mstable.com)**, Chamber's savings brand, to $3.5M in day-one deposits
+- 🛠️ **As an engineer:** cut users' network transaction fees up to 90% with a lower-fee swap route, built React apps for Starbucks (via Infosys), and contributed to the Ethereum EIP process
 
 ## 📱 What I'm Building Now
 
@@ -30,9 +30,9 @@ Solo-built, AI-native consumer apps — designed, engineered, and shipped end to
 
 | Project | What it is |
 |---|---|
-| **[Cleared](https://clearedfirst.com)** | AI to-do app with priority tiers, built on Gemini + Model Context Protocol (MCP) |
-| **Grava** | AI calorie tracker for iPhone — photo in, macros out (App Store) |
-| **IronProof** | Progress-photo transformation app for lifters (App Store) |
+| **[Cleared](https://clearedfirst.com)** | AI to-do app with priority tiers, built on Gemini + Model Context Protocol (MCP) · [App Store](https://apps.apple.com/us/app/cleared-first/id6792591159) |
+| **[Grava](https://gravacal.com)** | AI calorie tracker for iPhone — 21.13% App Store conversion rate · [App Store](https://apps.apple.com/us/app/grava/id6790959541) |
+| **[IronProof](https://ironproof.org)** | Turns progress photos into proof of transformation · [App Store](https://apps.apple.com/us/app/ironproof-photos/id6790628450) |
 
 ## 🧰 Tech I Work With
 
@@ -58,7 +58,7 @@ Solo-built, AI-native consumer apps — designed, engineered, and shipped end to
 </p>
 
 <p align="center">
-  🏔️ Arctic Code Vault Contributor · 143+ public repos · Contributor @ <a href="https://github.com/dhedge">dHEDGE</a> & <a href="https://github.com/FlatMoney">FlatMoney</a>
+  🏔️ Arctic Code Vault Contributor · Contributor @ <a href="https://github.com/dhedge">dHEDGE</a> & <a href="https://github.com/FlatMoney">FlatMoney</a>
 </p>
 
 ## ✍️ Writing
