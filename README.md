@@ -33,6 +33,7 @@ Solo-built, AI-native consumer apps — designed, engineered, and shipped end to
 | **[Cleared](https://clearedfirst.com)** | AI to-do app with priority tiers, built on Gemini + Model Context Protocol (MCP) · [App Store](https://apps.apple.com/us/app/cleared-first/id6792591159) |
 | **[Grava](https://gravacal.com)** | AI calorie tracker for iPhone — 21.13% App Store conversion rate · [App Store](https://apps.apple.com/us/app/grava/id6790959541) |
 | **[IronProof](https://ironproof.org)** | Turns progress photos into proof of transformation · [App Store](https://apps.apple.com/us/app/ironproof-photos/id6790628450) |
+| **[Delecto](https://delecto.app)** | Native Mac app that culls a photo shoot tournament-style, with fully on-device AI · [Mac App Store](https://apps.apple.com/us/app/delecto/id6819971928) |
 
 ## 🧰 Tech I Work With
 
