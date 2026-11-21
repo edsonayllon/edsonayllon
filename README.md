@@ -1,11 +1,10 @@
-<h1 align="center">Hi, I'm Edson Ayllon 👋</h1>
+# I build stuff, and I create art
 
-<p align="center">
-  <b>Product leader who ships code.</b><br/>
-  8 years across product and engineering, the last five shipping consumer financial products — launches that attracted $125M+ in user deposits and $3.4M in annualized revenue.
-</p>
+Hi, I'm Edson Ayllon 👋
 
-<p align="center">
+You can see my latest projects at [AyllonLabs.com](https://ayllonlabs.com/)
+
+<p>
   <a href="https://edsonayllon.com"><img src="https://img.shields.io/badge/Portfolio-edsonayllon.com-0A66C2?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/edson-ayllon/"><img src="https://img.shields.io/badge/LinkedIn-Edson%20Ayllon-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://medium.com/@edsonayllon"><img src="https://img.shields.io/badge/Medium-@edsonayllon-black?style=flat&logo=medium&logoColor=white" alt="Medium"/></a>
@@ -15,27 +14,7 @@
 
 ---
 
-## 🚀 What I've Done
-
-- 📈 **Attracted ~$110M of Chamber's $125M+ assets under management** as Senior Product Manager at [Chamber](https://chamberfi.com) (formerly dHEDGE), launching Toros leverage products with a team of 10 engineers and designers
-- 🔁 **Grew Toros' weekly active users 9.5x** (600 to 5,700) with referral, leaderboard, and achievements systems
-- 💰 **Grew monthly revenue ~7x to $3.4M annualized** by closing a competitive fee gap, and **grew monthly active users 73%** by owning the Chamber rebrand
-- ⚡ **Launched the dHEDGE V2 platform** — $1M in month one and $6.5M in deposits the next six months
-- 🏦 **Relaunched [mStable](https://mstable.com)**, Chamber's savings brand, to $3.5M in day-one deposits
-- 🛠️ **As an engineer:** cut users' network transaction fees up to 90% with a lower-fee swap route, built React apps for Starbucks (via Infosys), and contributed to the Ethereum EIP process
-
-## 📱 What I'm Building Now
-
-Solo-built, AI-native consumer apps — designed, engineered, and shipped end to end:
-
-| Project | What it is |
-|---|---|
-| **[Cleared](https://clearedfirst.com)** | AI to-do app with priority tiers, built on Gemini + Model Context Protocol (MCP) · [App Store](https://apps.apple.com/us/app/cleared-first/id6792591159) |
-| **[Grava](https://gravacal.com)** | AI calorie tracker for iPhone — 21.13% App Store conversion rate · [App Store](https://apps.apple.com/us/app/grava/id6790959541) |
-| **[IronProof](https://ironproof.org)** | Turns progress photos into proof of transformation · [App Store](https://apps.apple.com/us/app/ironproof-photos/id6790628450) |
-| **[Delecto](https://delecto.app)** | Native Mac app that culls a photo shoot tournament-style, with fully on-device AI · [Mac App Store](https://apps.apple.com/us/app/delecto/id6819971928) |
-
-## 🧰 Tech I Work With
+## Tech I Work With
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -51,23 +30,4 @@ Solo-built, AI-native consumer apps — designed, engineered, and shipped end to
 
 **Product:** strategy & roadmapping · pricing · growth & retention loops · behavioral design · 0→1 launches · cross-functional leadership
 
-## 📊 GitHub
 
-<p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=edsonayllon&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub stats"/>
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=edsonayllon&layout=compact&hide_border=true&theme=transparent&exclude_repo=eos-starter-smart-contracts,scatter-wallet-test" alt="Top languages"/>
-</p>
-
-<p align="center">
-  🏔️ Arctic Code Vault Contributor · Contributor @ <a href="https://github.com/dhedge">dHEDGE</a> & <a href="https://github.com/FlatMoney">FlatMoney</a>
-</p>
-
-## ✍️ Writing
-
-I write about product, engineering, and crypto on [Medium](https://medium.com/@edsonayllon) — from smart contract walkthroughs to product strategy breakdowns.
-
----
-
-<p align="center">
-  <i>📍 Philadelphia, PA · B.S. Energy Engineering, Penn State · Open to senior product & product engineering roles</i>
-</p>
