@@ -1,18 +1,11 @@
-# I build stuff, and I create art
+# I build stuff, and create art
 
 Hi, I'm Edson Ayllon 👋
 
-You can see my latest projects at [AyllonLabs.com](https://ayllonlabs.com/)
+You can see my latest projects at [AyllonLabs.com](https://ayllonlabs.com/).
 
-<p>
-  <a href="https://edsonayllon.com"><img src="https://img.shields.io/badge/Portfolio-edsonayllon.com-0A66C2?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/edson-ayllon/"><img src="https://img.shields.io/badge/LinkedIn-Edson%20Ayllon-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://medium.com/@edsonayllon"><img src="https://img.shields.io/badge/Medium-@edsonayllon-black?style=flat&logo=medium&logoColor=white" alt="Medium"/></a>
-  <a href="https://twitter.com/relativeread"><img src="https://img.shields.io/badge/X-@relativeread-black?style=flat&logo=x&logoColor=white" alt="X"/></a>
-  <a href="mailto:eayllon1@gmail.com"><img src="https://img.shields.io/badge/Email-eayllon1@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+I'm also a product manager, email me at [edson@ayllonlabs.com](mailto:edson@ayllonlabs.com) if you want to hire me.
 
----
 
 ## Tech I Work With
 
@@ -32,6 +25,6 @@ You can see my latest projects at [AyllonLabs.com](https://ayllonlabs.com/)
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white" alt="Ethereum"/>
 </p>
 
-**Product:** strategy & roadmapping · pricing · growth & retention loops · behavioral design · 0→1 launches · cross-functional leadership
+
 
 
