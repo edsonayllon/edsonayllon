@@ -1,4 +1,4 @@
-# I build stuff, and create art
+# I build things, and create art
 
 Hi, I'm Edson Ayllon 👋
 
